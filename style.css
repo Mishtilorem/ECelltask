@@ -102,6 +102,9 @@ border: 1px transparent #00407A;
 border-radius: 15px;
 }
 
+subgrid1,.subgrid2,.subgrid3,.subgrid4,.subgrid5,.subgrid6,.subgrid7,.subgrid8,.subgrid9 :focus{
+    color:red;
+}
 
 @media(max-width:1048px){
     
